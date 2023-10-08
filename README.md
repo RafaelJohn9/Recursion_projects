@@ -8,4 +8,6 @@ These projects are in the courtesies of Al Sweigart who has provided them in his
 This repo covers the chapter projects and also the MAIN PROJECTS in the second section
 
 **THEY WERE MANUALLY DONE AFTER THOUROUGHLY GOING THROUGH THE BOOK. CHALLENGES FACED WILL BE WRITTEN NEXT TO THE PROJECT DONE**
+
+
 **BIENVENUE DANS MES PROJETS DE RÉCURSION.**
