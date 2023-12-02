@@ -1,4 +1,4 @@
-This repository focuses on recursive projects written in python or javascript(specifications will be given on language used on each project dir)
+This repository focuses on recursive projects written in python or javascript(specifications will be given on language used on each project directory)
 
 ## **RECURSIVE BOOK OF RECURSION**
 # AUTHOR **AL SWEIGART**
